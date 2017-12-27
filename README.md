@@ -1,5 +1,12 @@
 # S7A2
 
+Note: All output related files are present under "src/app" folder.
+
+## Problem Statement
+1. In a component create an array with object in it.
+2. In HTML page create a table and loop through that array and show all the values
+in the table row with the index of an array.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
 
 ## Development server
